@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sistema Bancário</string>
+    <string name="titulo">Sistema De Contas Bancárias</string>
+    <string name="etCliente">Nome do Cliente</string>
+    <string name="etNumConta">Número da Conta</string>
+    <string name="etSaldo">Saldo $$$</string>
+
+    <string name="rbPoupanca">Poupança</string>
+    <string name="rbEspecial">Especial</string>
+
+    <string name="tvValor">Valor:</string>
+    <string name="etValor">Valor da Operação</string>
+
+    <string name="btnSacar">Sacar</string>
+    <string name="btnDepositar">Depositar</string>
+    <string name="btnCalcRendimento">Calcular Rendimento</string>
+
+    <string name="tvNomeCliente">Nome: </string>
+    <string name="tvNumConta">N° Conta: </string>
+    <string name="tvSaldo">Saldo: </string>
+
+</resources>
